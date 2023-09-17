@@ -9,7 +9,7 @@ o apt-get update
 
 sudo apt-get install \
 Â Â Â  ca-certificates \
-Â Â Â  curl \
+BANÂ Â  curl \
 Â Â Â  gnupg \
   lsb-release
 
