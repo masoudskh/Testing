@@ -6,11 +6,6 @@ for test
 
 o apt-get update
 
-sudo apt-get install \
-Â Â Â  ca-certificates \
-BANÂ Â  curl \
-Â Â Â  gnupg \
-  lsb-release
 
 
 sudo mkdir -p /etc/apt/keyrings
