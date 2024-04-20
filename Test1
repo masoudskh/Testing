@@ -2,9 +2,7 @@ for test
 
 
 
- apt-get remove docker docker-engine docker.io containerd runc
 
-o apt-get update
 
 
 
