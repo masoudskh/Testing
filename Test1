@@ -4,12 +4,7 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o 
 
 
 
-echo 
 
-echo \
-Â  "deb [arch=$(
-
-echo 
 
 echo \
 Â  "deb [arch=$(
