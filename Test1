@@ -1,10 +1,6 @@
 
 
-docker-ce-cli containerd.io docker-compose-plugin
-
-
-
-ÙˆÙ‚ØªÛŒ Ù¾ÛŒØ§Ù… hello world  Ø±Ùˆ Ø¯Ø±ÛŒØ§ÙØª Ù…ÛŒÚ©Ù†ÛŒØ¯ Ø¨Ù‡ Ø³Ø±Ø§Øº Ù†ØµØ¨ Ù¾Ú©ÛŒØ¬ Ù†ÙˆØ¯ nulink Ù…ÛŒ Ø±ÛŒØ¯ 
+world  Ø±Ùˆ Ø¯Ø±ÛŒØ§ÙØª Ù…ÛŒÚ©Ù†ÛŒØ¯ Ø¨Ù‡ Ø³Ø±Ø§Øº Ù†ØµØ¨ Ù¾Ú©ÛŒØ¬ Ù†ÙˆØ¯ nulink Ù…ÛŒ Ø±ÛŒØ¯ 
 
 sudo apt update && sudo apt upgrade -y
 
